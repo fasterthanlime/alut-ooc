@@ -1,0 +1,7 @@
+= All
+Name: alut
+Description: OpenAL utility library
+Requires: openal
+Pkgs: freealut
+Includes: AL/alut.h
+SourcePath: .
